@@ -1,0 +1,18 @@
+.logo-image{
+    height: 52px;
+    width: 180px;
+    padding-right: 10px;
+    
+}
+.header-image{
+text-align: start;
+}
+.disclosures{
+    font-size: 12px;
+    padding: 10px 15px;
+    color: #337ab7;
+    text-align: right;
+}
+.header{
+    padding-top: 10px;
+}

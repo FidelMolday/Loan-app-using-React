@@ -1,0 +1,27 @@
+.footer{
+    background: #F9F9FA;
+    padding-top: 50px ;
+    padding-bottom: 20px;
+}
+.footer-desc1{
+font-size: 12px;
+color: #333;
+line-height: 1.42857143;
+text-align: justify;
+margin-bottom: 0;
+}
+hr{
+margin: 0;
+border: 0;
+border-top: 1px solid #eee;
+}
+.footer-nav{
+padding-bottom: 0 !important;
+padding-left: 0 !important;
+padding-right: 0 !important;
+margin: 0 10px;
+}
+.footer-nav:hover{
+border-bottom: 1px solid #333;
+color: #333;
+}

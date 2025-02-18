@@ -1,0 +1,43 @@
+
+body{
+    overflow-x: hidden;
+}
+.tab-main-content{
+    padding: 50px 0;
+    width: 100%;
+}
+.active{
+    margin: auto;
+        border-bottom: 2px solid #000 !important;
+}
+.nav-tab-list{
+    padding: 10px 15px;
+    font-size: 12px;
+    margin-right: 2px;
+    color: #337ab7;
+    font-weight: 400;
+}
+.nav-list-head{
+    text-align: center;
+    margin-left: 15%;
+    margin-bottom: 2%;
+   
+}
+@media only screen and (max-width: 700px) {
+    .nav-list-head{
+        margin-left: 0;
+    }
+}
+.emphasis{
+        color: #F9AA2C;
+            font-weight: bold
+}
+.tabs-heading{
+    font-size: 30px !important;
+    font-weight: 500;
+    letter-spacing: -1.5px;
+    color: #4c4d53;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 1.1;
+}

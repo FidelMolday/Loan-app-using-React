@@ -1,0 +1,53 @@
+.apr-img{
+    height: 100%;
+    width: 100%;
+    padding: 20px 30px;
+}
+.heading1{
+    text-align: left;
+        margin-top: 20px;
+            font-weight: normal;
+            color: #777;
+            letter-spacing: -.5px;
+            font-size: 16px;
+}
+.heading2{
+    text-align: left;
+    letter-spacing: -1.5px;
+        line-height: 40px;
+        font-weight: 400;
+            color: #4c4d53;
+            font-size: 30px !important;
+                margin-top: 20px;
+                    margin-bottom: 10px;
+}
+.faq-desc{
+    text-align: left;
+        line-height: 28px !important;
+        color: #696969;
+        font-size: 16px;
+
+}
+.apr-desc{
+/* padding-right: 220px !important; */
+/* padding-left: 0 !important; */
+font-size: 85% !important;
+text-align: left;
+}
+.apr-img-col{
+    padding-right: 0 !important;
+}
+.request-btn{
+    margin-top: 20px !important;
+    border: 1px solid black !important;
+    border-radius: 0 !important;
+    padding: 10px 25px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    color: black;
+    
+}
+.request-btn:hover{
+    background-color: black !important;
+    color: white !important;
+}
